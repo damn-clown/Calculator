@@ -1,5 +1,5 @@
 #physics and math calculator
-import math, sys, os
+import math, sys
 mathorphysics = " "
 
 while mathorphysics != "Physics" or mathorphysics != "physics"  or mathorphysics != "math" or mathorphysics != "Math":
